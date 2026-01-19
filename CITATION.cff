@@ -1,0 +1,53 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Digitised wordlist for Salang and Sigulè (1920) derived
+  from Stokhof and Almanar's "Holle lists: Vocabularies in
+  languages of Indonesia, Vol. 10/3: Islands off the west
+  coast of Sumatra" from 1987
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file and the original legacy sources (Stokhof
+  1980; Stokhof and Almanar 1987)
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: Kadek Gilang
+    family-names: Ramawan
+    email: gilangram.gr@gmail.com
+    affiliation: Udayana University
+  - given-names: I Gusti Ayu Mirah
+    family-names: Mahasari
+    email: gustiayumirahmahasari@gmail.com
+    affiliation: Udayana University
+  - given-names: I Pande Putu Kenzie Arvan
+    family-names: Nismara
+    email: putukenzie.an@gmail.com
+    affiliation: Udayana University
+repository-code: >-
+  https://github.com/Holle-List/salang-sigule-1920-holle-list
+repository: 'https://github.com/complexico/holle-list-barrier-islands'
+keywords:
+  - wordlist
+  - Holle List
+  - Salang
+  - Sigulè
+  - Barrier Islands Languages
+  - Indonesian Languages
+  - Sumatra
+  - Digital Humanities
+  - Legacy Lexical Resources
+  - Linguistics
+  - Lexicography
+  - Documentary Lexicography
+  - Lexicon
+  - Sumatran
+license: CC-BY-SA-4.0
+version: 1.0.0
+date-released: '2026-01-19'
