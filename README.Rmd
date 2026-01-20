@@ -1,7 +1,7 @@
 ---
 output: github_document
 author: "Gede Primahadi Wijaya Rajeg, Kadek Gilang Ramawan, I Gusti Ayu Mirah Mahasari, I Pande Putu Kenzie Arvan Nismara"
-title: "Digitised wordlist for Salang and Sigulè (1920) derived from Stokhof and Almanar's \"Holle lists: Vocabularies in languages of Indonesia, Vol. 10/3: Islands off the west coast of Sumatra\" from 1987"
+title: "Digitised wordlist for Salang and Sigulè (NBG 1920) derived from Stokhof and Almanar's \"Holle lists: Vocabularies in languages of Indonesia, Vol. 10/3: Islands off the west coast of Sumatra\" from 1987"
 link-citations: true
 bibliography: "etc/mybib.bib"
 csl: "etc/apa7.csl"
@@ -26,7 +26,7 @@ knitr::opts_chunk$set(
 
 ------------------
 
-The R code file for processing the digitised Salang and Sigulè (1920) wordlist (with Indonesian and English glosses and part of the Holle List for the Barrier Islands Languages of Sumatra, Indonesia) is available [here](https://github.com/complexico/holle-list-barrier-islands/blob/main/processing-salang-and-sigule-googlespreadsheet.R) from [this repository](https://github.com/complexico/holle-list-barrier-islands). The digitised version of the Salang and Sigulè (1920) wordlist is part of the group project in [this repository](https://github.com/complexico/lexico-holle-list-barrier-islands).
+The R code file for processing the digitised Salang and Sigulè (NBG 1920) wordlist (with Indonesian and English glosses and part of the Holle List for the Barrier Islands Languages of Sumatra, Indonesia) is available [here](https://github.com/complexico/holle-list-barrier-islands/blob/main/processing-salang-and-sigule-googlespreadsheet.R) from [this repository](https://github.com/complexico/holle-list-barrier-islands). The digitised version of the Salang and Sigulè (NBG 1920) wordlist is part of the group project in [this repository](https://github.com/complexico/lexico-holle-list-barrier-islands).
 
 ## How to cite
 
@@ -41,7 +41,7 @@ and the particular [released version](https://github.com/Holle-List/salang-sigul
 
 > Rajeg, G. P. W. (2023). *Digitised, searchable Holle List in Stokhof (1980)* (University of Oxford; Version 1.3.1) [R]. University of Oxford’s Sustainable Digital Scholarship. https://doi.org/10.25446/oxford.23205173
 
-> Rajeg, G. P. W., Ramawan, K. G., Mahasari, I. G. A. M., & Nismara, I. P. P. K. A. (2026). _Digitised wordlist for Salang and Sigulè (1920) derived from Stokhof and Almanar’s ‘Holle lists: Vocabularies in languages of Indonesia, Vol. 10/3: Islands off the west coast of Sumatra’ from 1987_ (Version 1.0.0) [Dataset]. https://github.com/Holle-List/salang-sigule-1920-holle-list
+> Rajeg, G. P. W., Ramawan, K. G., Mahasari, I. G. A. M., & Nismara, I. P. P. K. A. (2026). _Digitised wordlist for Salang and Sigulè (NBG 1920) derived from Stokhof and Almanar’s ‘Holle lists: Vocabularies in languages of Indonesia, Vol. 10/3: Islands off the west coast of Sumatra’ from 1987_ (Version 1.0.0) [Dataset]. https://github.com/Holle-List/salang-sigule-1920-holle-list
 
 
 
