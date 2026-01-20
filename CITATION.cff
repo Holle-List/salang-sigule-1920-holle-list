@@ -30,6 +30,10 @@ authors:
     family-names: Nismara
     email: putukenzie.an@gmail.com
     affiliation: Udayana University
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18308216
+    description: Zenodo DOI
 repository-code: >-
   https://github.com/Holle-List/salang-sigule-1920-holle-list
 repository: 'https://github.com/complexico/holle-list-barrier-islands'
