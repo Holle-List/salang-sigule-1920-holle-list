@@ -22,7 +22,8 @@ Commons Attribution-ShareAlike 4.0 International</a>
 
 The R code file for processing the digitised Salang and Sigulè (NBG
 1920) wordlist (with Indonesian and English glosses and part of the
-Holle List for the Barrier Islands Languages of Sumatra, Indonesia) is
+[Holle List for the Barrier Islands Languages of Sumatra,
+Indonesia](https://github.com/complexico/holle-list-barrier-islands)) is
 available
 [here](https://github.com/complexico/holle-list-barrier-islands/blob/main/processing-salang-and-sigule-googlespreadsheet.R)
 from [this

@@ -26,7 +26,7 @@ knitr::opts_chunk$set(
 
 ------------------
 
-The R code file for processing the digitised Salang and Sigulè (NBG 1920) wordlist (with Indonesian and English glosses and part of the Holle List for the Barrier Islands Languages of Sumatra, Indonesia) is available [here](https://github.com/complexico/holle-list-barrier-islands/blob/main/processing-salang-and-sigule-googlespreadsheet.R) from [this repository](https://github.com/complexico/holle-list-barrier-islands). The digitised version of the Salang and Sigulè (NBG 1920) wordlist is part of the group project in [this repository](https://github.com/complexico/lexico-holle-list-barrier-islands).
+The R code file for processing the digitised Salang and Sigulè (NBG 1920) wordlist (with Indonesian and English glosses and part of the [Holle List for the Barrier Islands Languages of Sumatra, Indonesia](https://github.com/complexico/holle-list-barrier-islands)) is available [here](https://github.com/complexico/holle-list-barrier-islands/blob/main/processing-salang-and-sigule-googlespreadsheet.R) from [this repository](https://github.com/complexico/holle-list-barrier-islands). The digitised version of the Salang and Sigulè (NBG 1920) wordlist is part of the group project in [this repository](https://github.com/complexico/lexico-holle-list-barrier-islands).
 
 ## How to cite
 
