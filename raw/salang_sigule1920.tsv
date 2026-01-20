@@ -63,7 +63,8 @@ the Salang-Sigule list	100	mata-i-oe	NA	elleboog	elbow	siku	41	42	83	FALSE						
 the Salang-Sigule list	102	laloea danga	NA	handpalm	palm of the hand	telapak tangan	57	58	85	FALSE										PALM OF HAND	1183	https://concepticon.clld.org/parameters/1183
 the Salang-Sigule list	105	nònò danga	NA	vingers	fingers	jari tangan (jamak)	58	59	-	FALSE										FINGER	1303	https://concepticon.clld.org/parameters/1303
 the Salang-Sigule list	107	dènap	NA	nagel	(finger)nail	kuku	59	60	89	FALSE										FINGERNAIL OR TOENAIL	1896	https://concepticon.clld.org/parameters/1896
-the Salang-Sigule list	108	iendo danga/inah danga	NA	duim	thumb	ibu jari	60	61	90	FALSE										THUMB	1781	https://concepticon.clld.org/parameters/1781
+the Salang-Sigule list	108	iendo danga	NA	duim	thumb	ibu jari	60	61	90	FALSE										THUMB	1781	https://concepticon.clld.org/parameters/1781
+the Salang-Sigule list	108	inah danga	NA	duim	thumb	ibu jari	60	61	90	FALSE										THUMB	1781	https://concepticon.clld.org/parameters/1781
 the Salang-Sigule list	109	gietòe toeloe	NA	wijsvinger	index finger	telunjuk	61	62	91	FALSE										FOREFINGER	577	https://concepticon.clld.org/parameters/577
 the Salang-Sigule list	111	nònò danga	NA	ringvinger	ring finger	jari manis	63	64	93	FALSE										NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	112	nònò danga	NA	pink	little finger	kelingking	64	65	94	FALSE										LITTLE FINGER	2774	https://concepticon.clld.org/parameters/2774
@@ -134,7 +135,8 @@ the Salang-Sigule list	207	afêcheu bétoea	NA	buikpijn	stomach ache	sakit per
 the Salang-Sigule list	210	katoemboe-an	NA	pokken	small pox	cacar	184	188	172	FALSE										SMALLPOX	1054	https://concepticon.clld.org/parameters/1054
 the Salang-Sigule list	211	ima imaun	NA	mazelen	measles	campak	185	189	-	FALSE										MEASLES	3389	https://concepticon.clld.org/parameters/3389
 the Salang-Sigule list	214	foe-àh	NA	uitslag	eruption (of rash)	ruam	186	190	-	FALSE										NA	NA	https://concepticon.clld.org/parameters/NA
-the Salang-Sigule list	219	afêcheu toehoe/doehoe	NA	hoofdpijn	headache	sakit kepala, pusing	187	191	-	FALSE										HEADACHE	3625	https://concepticon.clld.org/parameters/3625
+the Salang-Sigule list	219	afêcheu toehoe	NA	hoofdpijn	headache	sakit kepala, pusing	187	191	-	FALSE										HEADACHE	3625	https://concepticon.clld.org/parameters/3625
+the Salang-Sigule list	219	afêcheu doehoe	NA	hoofdpijn	headache	sakit kepala, pusing	187	191	-	FALSE										HEADACHE	3625	https://concepticon.clld.org/parameters/3625
 the Salang-Sigule list	220	afêcheu chadeula	NA	rheumatiek	rheumatism	sengal, encok	188	192	179	FALSE										NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	222	o-afoe	NA	verkoudheid	a cold	selesma	189	193	-	FALSE										COMMON COLD (DISEASE)	102	https://concepticon.clld.org/parameters/102
 the Salang-Sigule list	223	afatang	NA	slapen van de ledematen, slaap (mierenkriewel)	gone to sleep (limbs)	kesemutan	191	195	181	FALSE										NA	NA	https://concepticon.clld.org/parameters/NA
@@ -146,9 +148,12 @@ the Salang-Sigule list	231	djoeling	NA	scheel	squinting	juling	196	200	188	FALSE
 the Salang-Sigule list	232	moela poelìh	NA	genezen	cured	sembuh	197	201	189	FALSE										CURE	499	https://concepticon.clld.org/parameters/499
 the Salang-Sigule list	234	deu-oe	NA	geneesmiddel (met toverkracht)	medicine (with magic power)	obat (dari dukun)	199	202	-	FALSE										MAGIC	392	https://concepticon.clld.org/parameters/392
 the Salang-Sigule list	235	bidan	NA	dokter (dukun)	doctor (medicine man)	dokter (dukun)	200	203	-	FALSE										SHAMAN (FOLK HEALER)	394	https://concepticon.clld.org/parameters/394
-the Salang-Sigule list	236	ata/nata	NA	mens (in de zin van mensdom)	man, mankind	manusia	1	1	-	FALSE										PERSON	683	https://concepticon.clld.org/parameters/683
-the Salang-Sigule list	237	ata/nata	NA	mens (in de zin van de mensen werden gedood)	people	orang	2	2	-	FALSE										PEOPLE	789	https://concepticon.clld.org/parameters/789
-the Salang-Sigule list	238	ata/nata	NA	mens (in de zin van de mensen v. het gebergte zijn onze vijanden)	people	orang	3	3	-	FALSE										PEOPLE	789	https://concepticon.clld.org/parameters/789
+the Salang-Sigule list	236	ata	NA	mens (in de zin van mensdom)	man, mankind	manusia	1	1	-	FALSE										PERSON	683	https://concepticon.clld.org/parameters/683
+the Salang-Sigule list	236	nata	NA	mens (in de zin van mensdom)	man, mankind	manusia	1	1	-	FALSE										PERSON	683	https://concepticon.clld.org/parameters/683
+the Salang-Sigule list	237	ata	NA	mens (in de zin van de mensen werden gedood)	people	orang	2	2	-	FALSE										PEOPLE	789	https://concepticon.clld.org/parameters/789
+the Salang-Sigule list	237	nata	NA	mens (in de zin van de mensen werden gedood)	people	orang	2	2	-	FALSE										PEOPLE	789	https://concepticon.clld.org/parameters/789
+the Salang-Sigule list	238	ata	NA	mens (in de zin van de mensen v. het gebergte zijn onze vijanden)	people	orang	3	3	-	FALSE										PEOPLE	789	https://concepticon.clld.org/parameters/789
+the Salang-Sigule list	238	nata	NA	mens (in de zin van de mensen v. het gebergte zijn onze vijanden)	people	orang	3	3	-	FALSE										PEOPLE	789	https://concepticon.clld.org/parameters/789
 the Salang-Sigule list	239	deu-i	NA	naam	name	nama	113	114	192	TRUE										NAME	1405	https://concepticon.clld.org/parameters/1405
 the Salang-Sigule list	240	deu-i	NA	bijnaam	nickname	julukan	114	115	-	FALSE										NAME	1405	https://concepticon.clld.org/parameters/1405
 the Salang-Sigule list	241	imatoe-a	NA	man	man	orang laki-laki	75	77	193	TRUE										MALE PERSON	2106	https://concepticon.clld.org/parameters/2106
@@ -238,7 +243,8 @@ the Salang-Sigule list	378	radjò	NA	koning	king	raja	593	603	-	FALSE										
 the Salang-Sigule list	382	banoea bichoe	NA	plaats (die gevreesd wordt)	(sacred) place (held in awe)	tempat (menyeramkan)	243	241	-	FALSE										PLACE (POSITION)	723	https://concepticon.clld.org/parameters/723
 the Salang-Sigule list	386	dato	NA	dorpshoofd	village head	kepala kampung	597	608	245	FALSE										CHIEFTAIN	301	https://concepticon.clld.org/parameters/301
 the Salang-Sigule list	389	atoea toea	NA	oudsten	village elders	orang tua-tua	599	610	248	FALSE										OLD (AGED)	2112	https://concepticon.clld.org/parameters/2112
-the Salang-Sigule list	391	goentoeng/labòh	NA	geluk	happiness	kebahagiaan	210	213	-	FALSE										HAPPINESS	2941	https://concepticon.clld.org/parameters/2941
+the Salang-Sigule list	391	goentoeng	NA	geluk	happiness	kebahagiaan	210	213	-	FALSE										HAPPINESS	2941	https://concepticon.clld.org/parameters/2941
+the Salang-Sigule list	391	labòh	NA	geluk	happiness	kebahagiaan	210	213	-	FALSE										HAPPINESS	2941	https://concepticon.clld.org/parameters/2941
 the Salang-Sigule list	392	roegí	NA	ongeluk	unhappiness	kesedihan, kemalangan	211	214	-	FALSE										SADNESS	3854	https://concepticon.clld.org/parameters/3854
 the Salang-Sigule list	396	adat	NA	gewoonterecht	common law	hukum adat	604	623	-	FALSE										LAW	1062	https://concepticon.clld.org/parameters/1062
 the Salang-Sigule list	399	hoekoem	NA	straffen	to punish	menghukum	608	625	252	FALSE										PUNISH	3649	https://concepticon.clld.org/parameters/3649
@@ -294,7 +300,8 @@ the Salang-Sigule list	477	mangè bà-eu naiteu	NA	vuur aanleggen	to make a fi
 the Salang-Sigule list	478	boenoeh naiteu	NA	vuur blussen	to extinguish (with water)	memadamkan api (dengan air)	287	288	-	FALSE										EXTINGUISH	127	https://concepticon.clld.org/parameters/127
 the Salang-Sigule list	482	imboe	NA	rook	smoke	asap	-	290	306	TRUE										SMOKE (EXHAUST)	778	https://concepticon.clld.org/parameters/778
 the Salang-Sigule list	483	gêlan	NA	as	ashes	abu	289	291	307	TRUE										ASH	646	https://concepticon.clld.org/parameters/646
-the Salang-Sigule list	484	gaujeun/ga oejoen	NA	brandhout	fire wood	kayu api	290	292	308	FALSE										FIREWOOD	10	https://concepticon.clld.org/parameters/10
+the Salang-Sigule list	484	gaujeun	NA	brandhout	fire wood	kayu api	290	292	308	FALSE										FIREWOOD	10	https://concepticon.clld.org/parameters/10
+the Salang-Sigule list	484	ga oejoen	NA	brandhout	fire wood	kayu api	290	292	308	FALSE										FIREWOOD	10	https://concepticon.clld.org/parameters/10
 the Salang-Sigule list	485	toetoeng fandoe	NA	aansteken (licht)	to put on (light)	menyalakan (sinar)	293	295	-	FALSE										LIGHT (IGNITE)	737	https://concepticon.clld.org/parameters/737
 the Salang-Sigule list	486	boenoeh fandoe	NA	uitdoen (licht)	to put off (light)	memadamkan (sinar)	294	296	-	FALSE										EXTINGUISH	127	https://concepticon.clld.org/parameters/127
 the Salang-Sigule list	487	fa-aleung bateu	NA	ruimte onder het huis	space under the house	kolong rumah	278	280	309	FALSE										AREA UNDER HOUSE	2632	https://concepticon.clld.org/parameters/2632
@@ -302,7 +309,8 @@ the Salang-Sigule list	488	koelamboe	NA	bedgordijn	bed curtain	kelambu	297	298	-
 the Salang-Sigule list	489	koedò koedò	NA	zitbankje	bench, seat	bangku untuk duduk	298	299	-	FALSE										BENCH	2584	https://concepticon.clld.org/parameters/2584
 the Salang-Sigule list	493	kansah-balang	NA	pan (ijzeren)	pot (iron)	kuali (besi), panci (besi)	310	312	-	FALSE										POT	1462	https://concepticon.clld.org/parameters/1462
 the Salang-Sigule list	494	balang taneu	NA	pan (aarden)	pot (earthenware)	panci, kuali (tanah liat)	311	313	-	FALSE										CLAY POT	2055	https://concepticon.clld.org/parameters/2055
-the Salang-Sigule list	495	kanèt/ganèt	NA	rijstketel (koperen, dandang)	rice kettle (copper)	dandang	312	314	-	FALSE										RICE STEAMER	854	https://concepticon.clld.org/parameters/854
+the Salang-Sigule list	495	kanèt	NA	rijstketel (koperen, dandang)	rice kettle (copper)	dandang	312	314	-	FALSE										RICE STEAMER	854	https://concepticon.clld.org/parameters/854
+the Salang-Sigule list	495	ganèt	NA	rijstketel (koperen, dandang)	rice kettle (copper)	dandang	312	314	-	FALSE										RICE STEAMER	854	https://concepticon.clld.org/parameters/854
 the Salang-Sigule list	496	ganèt taneu	NA	rijstketel (aarden, koendija)	rice kettle (earthenware)	kundia	312	314	-	FALSE										RICE STEAMER	854	https://concepticon.clld.org/parameters/854
 the Salang-Sigule list	497	gambatoe	NA	bord	dish	piring	313	315	313	FALSE										PLATE	480	https://concepticon.clld.org/parameters/480
 the Salang-Sigule list	498	boe-ai	NA	kopje	cup	cangkir	314	316	-	FALSE										CUP	476	https://concepticon.clld.org/parameters/476
@@ -314,7 +322,8 @@ the Salang-Sigule list	507	galé	NA	dolk (kris)	kris	keris	302	304	-	FALSE					
 the Salang-Sigule list	508	bísó ítìtì	NA	dolk (badi-badi)	dagger	golok	303	305	-	FALSE										SMALL KNIFE	3233	https://concepticon.clld.org/parameters/3233
 the Salang-Sigule list	509	patòh	NA	bijl	axe, hatchet	kapak	-	306	476	FALSE										AXE	677	https://concepticon.clld.org/parameters/677
 the Salang-Sigule list	510	sèndoq	NA	lepel	spoon	sendok	318	319	319	FALSE										SPOON	1378	https://concepticon.clld.org/parameters/1378
-the Salang-Sigule list	511	awê/awòh	NA	scheplepel, schepper	ladle	ciduk, sendok	319	320	320	FALSE										LADLE	2657	https://concepticon.clld.org/parameters/2657
+the Salang-Sigule list	511	awê	NA	scheplepel, schepper	ladle	ciduk, sendok	319	320	320	FALSE										LADLE	2657	https://concepticon.clld.org/parameters/2657
+the Salang-Sigule list	511	awòh	NA	scheplepel, schepper	ladle	ciduk, sendok	319	320	320	FALSE										LADLE	2657	https://concepticon.clld.org/parameters/2657
 the Salang-Sigule list	513	monda-oe idaneu	NA	water halen	to fetch water	mengambil air	-	583	322	FALSE										DRAW (WATER)	1911	https://concepticon.clld.org/parameters/1911
 the Salang-Sigule list	514	katiding	NA	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE										BASKET	1539	https://concepticon.clld.org/parameters/1539
 the Salang-Sigule list	515	fandoe	NA	lamp	lamp	lampu	321	322	324	FALSE										LAMP	625	https://concepticon.clld.org/parameters/625
@@ -439,7 +448,8 @@ the Salang-Sigule list	723	koppi	NA	koffie	coffee	kopi	494	498	-	FALSE										
 the Salang-Sigule list	726	gambir	NA	gambir	Uncaria gambir	gambir	498	503	364	FALSE										NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	728	afoe	NA	kalk (kalksteen)	lime	kapur	576	502	363	FALSE										LIME (MATERIAL)	2540	https://concepticon.clld.org/parameters/2540
 the Salang-Sigule list	729	gòndin	NA	kurkuma (koenjit)	Curcuma domestica	kunyit	500	505	467	FALSE										TURMERIC	2842	https://concepticon.clld.org/parameters/2842
-the Salang-Sigule list	731	oewìh/noewìh	NA	rotan	rattan, cane	rotan	501	506	469	FALSE										RATTAN	2497	https://concepticon.clld.org/parameters/2497
+the Salang-Sigule list	731	oewìh	NA	rotan	rattan, cane	rotan	501	506	469	FALSE										RATTAN	2497	https://concepticon.clld.org/parameters/2497
+the Salang-Sigule list	731	noewìh	NA	rotan	rattan, cane	rotan	501	506	469	FALSE										RATTAN	2497	https://concepticon.clld.org/parameters/2497
 the Salang-Sigule list	732	lèfoe-eu	NA	bamboe	bamboo	bambu	502	507	470	FALSE										BAMBOO	1927	https://concepticon.clld.org/parameters/1927
 the Salang-Sigule list	733	raboeng	NA	jonge bamboespruit	bamboo shoot, young sprout	rebung	-	508	471	FALSE										BAMBOO SHOOT	2494	https://concepticon.clld.org/parameters/2494
 the Salang-Sigule list	734	taloe	NA	boom	tree	pohon	541	549	472	TRUE										TREE	906	https://concepticon.clld.org/parameters/906
@@ -481,7 +491,8 @@ the Salang-Sigule list	800-802	kêbau	NA	buffel <unsp.>	buffalo (female) [ID_80
 the Salang-Sigule list	805	bè	NA	bleren	to bleat, to moo	menguak	-	361	-	FALSE										NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	807	goedò	NA	paard	horse	kuda	363	365	530	FALSE										HORSE	615	https://concepticon.clld.org/parameters/615
 the Salang-Sigule list	809	roesòh	NA	hert	deer	rusa	365	367	532	FALSE										DEER	1936	https://concepticon.clld.org/parameters/1936
-the Salang-Sigule list	811	nahoe/ahoe	NA	hond	dog	anjing	366	368	534	TRUE										DOG	2009	https://concepticon.clld.org/parameters/2009
+the Salang-Sigule list	811	nahoe	NA	hond	dog	anjing	366	368	534	TRUE										DOG	2009	https://concepticon.clld.org/parameters/2009
+the Salang-Sigule list	811	ahoe	NA	hond	dog	anjing	366	368	534	TRUE										DOG	2009	https://concepticon.clld.org/parameters/2009
 the Salang-Sigule list	812	bau	NA	blaffen	to bark	menyalak	367	369	535	FALSE										BARKING	1206	https://concepticon.clld.org/parameters/1206
 the Salang-Sigule list	813	ma-ò	NA	kat, poes	cat	kucing	368	370	536	FALSE										CAT	1208	https://concepticon.clld.org/parameters/1208
 the Salang-Sigule list	814	wàlì ma-ò	NA	miauwen	to miaow	mengeong	369	371	537	FALSE										NA	NA	https://concepticon.clld.org/parameters/NA
@@ -500,7 +511,8 @@ the Salang-Sigule list	844	manò'	NA	vogel (in het algemeen en andere soorten)	
 the Salang-Sigule list	845	toepai	NA	eekhoorn	squirrel	bajing, tupai	384	386	559	FALSE										SQUIRREL	1628	https://concepticon.clld.org/parameters/1628
 the Salang-Sigule list	851	tioe	NA	muis	mouse	tikus	389	391	564	FALSE										MOUSE	1491	https://concepticon.clld.org/parameters/1491
 the Salang-Sigule list	852	tioe	NA	rat	rat	tikus	390	392	-	FALSE										RAT	1490	https://concepticon.clld.org/parameters/1490
-the Salang-Sigule list	854	ba-í/ba-é	11	aap	monkey	monyet, kera	392	394	566	FALSE							a black kind of monkey			MONKEY	1350	https://concepticon.clld.org/parameters/1350
+the Salang-Sigule list	854	ba-í	11	aap	monkey	monyet, kera	392	394	566	FALSE							a black kind of monkey			MONKEY	1350	https://concepticon.clld.org/parameters/1350
+the Salang-Sigule list	854	ba-é	11	aap	monkey	monyet, kera	392	394	566	FALSE							a black kind of monkey			MONKEY	1350	https://concepticon.clld.org/parameters/1350
 the Salang-Sigule list	861	délah	NA	net	net	jala	560	567	573	FALSE										NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
 the Salang-Sigule list	870	goetoe	NA	vlo	flea	kutu anjing	395	397	582	FALSE										FLEA	232	https://concepticon.clld.org/parameters/232
 the Salang-Sigule list	871	boenga	NA	spin	spider	laba-laba	396	398	583	FALSE										SPIDER	843	https://concepticon.clld.org/parameters/843
@@ -635,7 +647,8 @@ the Salang-Sigule list	1051	géló	NA	haven	harbour	pelabuhan	673	687	-	FALSE	
 the Salang-Sigule list	1052	achochi	NA	stranden, schipbreuklijden	to be wrecked	terdampar, kandas	676	691	-	FALSE										NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	1053	ata maraboe	NA	zeerover	pirate	bajak laut	677	692	-	FALSE										NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	1061	éba	NA	groot	great, big	besar	682	697	726	TRUE	big									BIG	1202	https://concepticon.clld.org/parameters/1202
-the Salang-Sigule list	1062	ònò ònò/ítìtì tìtì	NA	klein	small	kecil	683	698	727	TRUE										SMALL	1246	https://concepticon.clld.org/parameters/1246
+the Salang-Sigule list	1062	ònò ònò	NA	klein	small	kecil	683	698	727	TRUE										SMALL	1246	https://concepticon.clld.org/parameters/1246
+the Salang-Sigule list	1062	ítìtì tìtì	NA	klein	small	kecil	683	698	727	TRUE										SMALL	1246	https://concepticon.clld.org/parameters/1246
 the Salang-Sigule list	1063/1064	ténaloe	NA	lang <unsp.>	long (things) [ID_1063]; long (time) [ID_1064]	panjang [ID_1063]; lama [ID_1064]	684	699	728	FALSE										NA	NA	NA
 the Salang-Sigule list	1065/1066	èdafa	NA	kort <unsp.>	short (things) [ID_1065]; short (time) [ID_1066]	pendek [ID_1065]; singkat, pendek [ID_1066]	685	700	729	FALSE										NA	NA	NA
 the Salang-Sigule list	1067/1068	abì-ì	NA	dik <unsp.>	big, fat [ID_1067]; thick [ID_1068]	gemuk [ID_1067]; tebal [ID_1068]	686	701	730	FALSE										NA	NA	NA
@@ -828,7 +841,8 @@ the Salang-Sigule list	1324	lífoe	41	duizend	thousand	seribu	897	908	933	TRUE	
 the Salang-Sigule list	1325	salaksò	42	tienduizend	ten thousand	sepuluh ribu	898	909	934	FALSE			salaksò	people						TEN THOUSAND	2078	https://concepticon.clld.org/parameters/2078
 the Salang-Sigule list	1325	salaksò	42	tienduizend	ten thousand	sepuluh ribu	898	909	934	FALSE			salaksò	animals						TEN THOUSAND	2078	https://concepticon.clld.org/parameters/2078
 the Salang-Sigule list	1325	salaksò	42	tienduizend	ten thousand	sepuluh ribu	898	909	934	FALSE			salaksò	objects						TEN THOUSAND	2078	https://concepticon.clld.org/parameters/2078
-the Salang-Sigule list	1326	feufeu/sêparo	NA	een half	a half	setengah	899	910	935	FALSE										HALF	816	https://concepticon.clld.org/parameters/816
+the Salang-Sigule list	1326	feufeu	NA	een half	a half	setengah	899	910	935	FALSE										HALF	816	https://concepticon.clld.org/parameters/816
+the Salang-Sigule list	1326	sêparo	NA	een half	a half	setengah	899	910	935	FALSE										HALF	816	https://concepticon.clld.org/parameters/816
 the Salang-Sigule list	1326	matoenga	NA	een half	a half	setengah	899	910	935	FALSE										HALF	816	https://concepticon.clld.org/parameters/816
 the Salang-Sigule list	1327	ehin	NA	een kwart	a quarter	seperempat	900	911	936	FALSE										NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	1328	achoelí	NA	eenmaal	once	sekali	901	912	937	FALSE										ONE TIME	374	https://concepticon.clld.org/parameters/374
